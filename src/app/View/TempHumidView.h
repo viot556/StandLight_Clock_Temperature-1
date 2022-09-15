@@ -13,6 +13,6 @@ public:
     virtual ~TempHumidView();
     void setTempHumidData(float temp, float humid);
     void warning(float temp);
-};
+}; 
 
 #endif /* __TEMPHUMIDVIEW_H__ */

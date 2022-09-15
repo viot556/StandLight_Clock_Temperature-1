@@ -36,6 +36,6 @@ void TempHumidView::setTempHumidData(float temp, float humid)
         sprintf(buff2, " %.1f%c", humid, '%');
         lcd->WriteStringXY(1, 10, buff2);
         printf("%s %s\n",buff1, buff2);
-    }
+    } 
     
 }

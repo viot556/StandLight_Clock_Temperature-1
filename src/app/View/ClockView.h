@@ -16,4 +16,4 @@ public:
     void updateTime(struct tm *timeData);
 };
 
-#endif /* __CLOCKVIEW_H__ */
+#endif /* __CLOCKVIEW_H__ */ 

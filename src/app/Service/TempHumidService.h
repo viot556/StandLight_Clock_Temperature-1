@@ -15,4 +15,4 @@ public:
     void updateEvent(DHT_Data dhtData);
 };
 
-#endif /* __TEMPHUMIDSERVICE_H__ */
+#endif /* __TEMPHUMIDSERVICE_H__ */ 

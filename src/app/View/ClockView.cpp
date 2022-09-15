@@ -18,4 +18,4 @@ void ClockView::updateTime(struct tm *timeData)
             timeData->tm_min,
             timeData->tm_sec);
     lcd->WriteStringXY(1, 0, buff);
-}
+} 

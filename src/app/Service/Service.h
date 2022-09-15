@@ -18,5 +18,5 @@ public:
     virtual ~Service();
     void updateState(std::string strState);
 };
-
+ 
 #endif /* __SERVICE_H__ */

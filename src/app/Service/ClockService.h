@@ -15,5 +15,5 @@ public:
     virtual ~ClockService();
     void updateEvent();
 };
-
+ 
 #endif /* __CLOCKSERVICE_H__ */

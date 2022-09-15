@@ -13,7 +13,7 @@ private :
     Button *modeButton;
     Button *powerButton;
     ClockCheck *clockCheck;
-    Controller *controller;
+    Controller *controller; 
     DHT11 *dht11;
 
 public:

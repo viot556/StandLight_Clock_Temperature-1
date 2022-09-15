@@ -14,4 +14,4 @@ void ClockService::updateEvent()
     curTime = time(NULL);
     struct tm *timeDate = localtime(&curTime);
     clockView->updateTime(timeDate);
-}
+} 

@@ -14,7 +14,7 @@ private:
     Service *service;
     ClockService *clockService;
     TempHumidService *tempHumidService;
-
+ 
 public:
     Controller(Service *serv, ClockService *clockServ, TempHumidService *tempHumiService);
     virtual ~Controller();

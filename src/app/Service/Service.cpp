@@ -10,7 +10,7 @@ Service::~Service()
 {
 
 }
-
+ 
 void Service::updateState(std::string strState)
 {
     switch (lightState)
